@@ -3,10 +3,9 @@
 
 ## I'm a Student, learner, Developer, and G@mer !
 
-- 🔭 Studying at EPITECH - Toulouse
+- 🔭 graduated EPITECH - Toulouse
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Have a real GitHub profile 😬
-- ⚡ Hobbies : I love play video games, learn new technologies, play guitar, go to the Gym 😍
+- ⚡ Hobbies : Gym, learn new technologies, play guitar, motorcyle (2017 Ninja 650 custom ) 😍
 
 ### Connect with me:
 [<img align="left" alt="thomas-nunes-b5143a169 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
