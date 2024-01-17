@@ -1,7 +1,7 @@
 ### Hi there, I'm Thomas, French software engineer 👋 
 
 
-## I'm a Student, learner, Developer, and G@mer !
+## I'm a software developer !
 
 - 🔭 graduated EPITECH - Toulouse
 - 🌱 I’m currently learning everything
